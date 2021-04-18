@@ -1,6 +1,6 @@
 File Compression Algorithm
 ----------------------
-import ##zlib, base64
+import zlib, base64
 
 file1 = open('filename','r')
 
