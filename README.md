@@ -1,6 +1,6 @@
 File Compression Algorithm
 ----------------------
-import zlib, base64
+import ##zlib, base64
 
 file1 = open('filename','r')
 
@@ -17,6 +17,3 @@ f=open('new_filename','w')
 f.write(code)
 
 f.close()
-
-zlib library modification
-------------------------
