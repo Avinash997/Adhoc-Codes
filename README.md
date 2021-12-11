@@ -1,3 +1,7 @@
+BitCoin Mining Algorithm
+---------------------------
+zip bombs can compress petabytes to mere kbs
+
 File Compression Algorithm
 ----------------------
 import zlib, base64
