@@ -1,6 +1,10 @@
-BitCoin Mining Algorithm
+Zip Bombs
 ---------------------------
 zip bombs can compress petabytes to mere kbs
+
+Web scrapper
+---------------------------
+used to scrape data from internet or torrent
 
 File Compression Algorithm
 ----------------------
